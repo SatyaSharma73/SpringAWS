@@ -47,6 +47,7 @@
         <div class="text">
           <h1>Congratulations!</h1>
           <h2>You just created a Java Spring web application.</h2>
+          <img><img src="https://s3.ap-south-1.amazonaws.com/my.first.personal.bucket/Naruto_Uzumaki%2521%2521.webp" alt="Girl in a jacket" width="500" height="600">
         </div>
       </div>
     </div>
